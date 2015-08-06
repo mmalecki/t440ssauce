@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+xrandr --output HDMI-0 --off
+xrandr --output VGA-0 --off
+xrandr --output LVDS-0 --auto
